@@ -1,0 +1,11 @@
+2014-03-28 09:35:37,122 [9772] INFO  SuperWebSocket - The server instance SuperWebSocket has been started!
+2014-03-28 09:36:22,518 [4800] INFO  SuperWebSocket - A new session connected!
+2014-03-28 09:37:15,450 [10892] INFO  SuperWebSocket - A new session connected!
+2014-03-28 09:37:41,791 [10892] INFO  SuperWebSocket - A new session connected!
+2014-03-28 09:39:07,184 [8724] INFO  SuperWebSocket - Session: 8f34a987-138b-41f4-a5d4-c53d6b85bdab/127.0.0.1:4917
+This session was closed for ClientClosing!
+2014-03-28 09:39:28,501 [8724] INFO  SuperWebSocket - Session: 91a1b627-d0be-41df-bb5f-8b1538dd4ccf/127.0.0.1:4890
+This session was closed for ClientClosing!
+2014-03-28 09:39:30,902 [7544] INFO  SuperWebSocket - Session: b0048ea4-84f9-4418-ad1f-b9edefecc2a7/127.0.0.1:4851
+This session was closed for ClientClosing!
+2014-03-28 09:45:04,568 [8724] INFO  SuperWebSocket - The server instance SuperWebSocket has been stopped!

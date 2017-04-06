@@ -1,0 +1,12 @@
+2014-03-28 09:35:31,801 [9772] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been created!
+2014-03-28 09:35:33,116 [9772] DEBUG SuperWebSocket - SubProtocol Basic found the commands below:
+
+2014-03-28 09:35:33,619 [9772] DEBUG DefaultBootstrap - The server instance SuperWebSocket has been initialized!
+2014-03-28 09:35:36,819 [9772] DEBUG DefaultBootstrap - The PerformanceMonitor has been initialized!
+2014-03-28 09:35:36,819 [9772] DEBUG DefaultBootstrap - The Bootstrap has been initialized!
+2014-03-28 09:35:37,121 [9772] DEBUG SuperWebSocket - Listener (0.0.0.0:8080) was started
+2014-03-28 09:35:37,121 [9772] DEBUG SuperWebSocket - Listener (0.0.0.0:4502) was started
+2014-03-28 09:35:37,123 [9772] DEBUG DefaultBootstrap - The PerformanceMonitor has been started!
+2014-03-28 09:45:04,568 [8724] DEBUG SuperWebSocket - Listener (0.0.0.0:8080) was stoppped
+2014-03-28 09:45:04,568 [8724] DEBUG SuperWebSocket - Listener (0.0.0.0:4502) was stoppped
+2014-03-28 09:45:04,568 [8724] DEBUG DefaultBootstrap - The PerformanceMonitor has been stoppped!

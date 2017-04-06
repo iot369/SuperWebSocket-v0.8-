@@ -1,0 +1,140 @@
+2014-03-28 09:35:37,329 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 47,431,680.00, Total Thread Count: 27
+AvailableWorkingThreads: 196, AvailableCompletionPortThreads: 200
+MaxWorkingThreads: 200, MaxCompletionPortThreads: 200
+SuperWebSocket ----------------------------------
+Started Time: 2014/3/28 9:35:37
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2014-03-28 09:36:37,165 Performance - ---------------------------------------------------
+CPU Usage: 0.32%, Physical Memory Usage: 57,192,448.00, Total Thread Count: 25
+AvailableWorkingThreads: 196, AvailableCompletionPortThreads: 200
+MaxWorkingThreads: 200, MaxCompletionPortThreads: 200
+SuperWebSocket ----------------------------------
+Started Time: 2014/3/28 9:35:37
+Is Running: True
+Total Connections: 1
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 1
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 255
+Total Sending Queue Items: 256
+
+2014-03-28 09:37:37,166 Performance - ---------------------------------------------------
+CPU Usage: 0.09%, Physical Memory Usage: 57,098,240.00, Total Thread Count: 23
+AvailableWorkingThreads: 194, AvailableCompletionPortThreads: 200
+MaxWorkingThreads: 200, MaxCompletionPortThreads: 200
+SuperWebSocket ----------------------------------
+Started Time: 2014/3/28 9:35:37
+Is Running: True
+Total Connections: 2
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 4
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 254
+Total Sending Queue Items: 256
+
+2014-03-28 09:38:37,197 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 57,024,512.00, Total Thread Count: 22
+AvailableWorkingThreads: 197, AvailableCompletionPortThreads: 200
+MaxWorkingThreads: 200, MaxCompletionPortThreads: 200
+SuperWebSocket ----------------------------------
+Started Time: 2014/3/28 9:35:37
+Is Running: True
+Total Connections: 3
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 7
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 253
+Total Sending Queue Items: 256
+
+2014-03-28 09:39:37,205 Performance - ---------------------------------------------------
+CPU Usage: 0.05%, Physical Memory Usage: 56,483,840.00, Total Thread Count: 22
+AvailableWorkingThreads: 196, AvailableCompletionPortThreads: 200
+MaxWorkingThreads: 200, MaxCompletionPortThreads: 200
+SuperWebSocket ----------------------------------
+Started Time: 2014/3/28 9:35:37
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 9
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2014-03-28 09:40:37,216 Performance - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 56,483,840.00, Total Thread Count: 22
+AvailableWorkingThreads: 197, AvailableCompletionPortThreads: 200
+MaxWorkingThreads: 200, MaxCompletionPortThreads: 200
+SuperWebSocket ----------------------------------
+Started Time: 2014/3/28 9:35:37
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 9
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2014-03-28 09:41:37,217 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 56,561,664.00, Total Thread Count: 23
+AvailableWorkingThreads: 197, AvailableCompletionPortThreads: 200
+MaxWorkingThreads: 200, MaxCompletionPortThreads: 200
+SuperWebSocket ----------------------------------
+Started Time: 2014/3/28 9:35:37
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 9
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2014-03-28 09:42:37,244 Performance - ---------------------------------------------------
+CPU Usage: 0.04%, Physical Memory Usage: 56,639,488.00, Total Thread Count: 22
+AvailableWorkingThreads: 197, AvailableCompletionPortThreads: 200
+MaxWorkingThreads: 200, MaxCompletionPortThreads: 200
+SuperWebSocket ----------------------------------
+Started Time: 2014/3/28 9:35:37
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 9
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2014-03-28 09:43:37,234 Performance - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 56,639,488.00, Total Thread Count: 22
+AvailableWorkingThreads: 197, AvailableCompletionPortThreads: 200
+MaxWorkingThreads: 200, MaxCompletionPortThreads: 200
+SuperWebSocket ----------------------------------
+Started Time: 2014/3/28 9:35:37
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 9
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
+2014-03-28 09:44:37,247 Performance - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 56,426,496.00, Total Thread Count: 19
+AvailableWorkingThreads: 197, AvailableCompletionPortThreads: 200
+MaxWorkingThreads: 200, MaxCompletionPortThreads: 200
+SuperWebSocket ----------------------------------
+Started Time: 2014/3/28 9:35:37
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 100
+Total Handled Requests: 9
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
